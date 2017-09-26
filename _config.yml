@@ -25,7 +25,8 @@ url: "https://themelis.github.io/" # the base hostname & protocol for your site,
 github_username:  themelis
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
 theme: jekyll-theme-hydeout
 #theme: minima
 plugins:

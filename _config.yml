@@ -26,7 +26,8 @@ github_username:  themelis
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hydeout
+theme: minima
 plugins:
   - jekyll-feed
 

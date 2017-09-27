@@ -5,21 +5,18 @@ excerpt_separator:  <!--more-->
 ---
 
 
-dfsffdsHydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme f
 
-fdsfsdf
+### Welcome to my homepage!
 
-or [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+I am a postdoc researcher at the Cosmostat laboratory, based at CEA Saclay, near Paris, France. 
 
-### Keep It Simple
+My research interests are in the area of statistical signal processing and probabilistic machine learning with application to image processing and adaptive estimation.
 
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
+To learn more, check out the research page, publication list and my CV.
 
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
+You can also find me in Google Scholar, Linkedin and ORCiD.
 
-### Customization
+Suggested reads
+
+* Machine Learning, A Bayesian and Optimization Perspective, book by Sergios Theodoridis.
+* Statistical Signal Processing: Detection, Estimation, and Time Series Analysis, book by Louis L. Scharf.

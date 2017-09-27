@@ -1,6 +1,7 @@
 ---
+title: Publications
 layout: page
 ---
 
-# publications
+# Publications
 

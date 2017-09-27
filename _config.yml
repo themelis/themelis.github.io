@@ -33,6 +33,19 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+
+
+# Site menu settings
+menu:
+  - title: "Research"
+    url: "/research"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Contact"
+    url: "/contact"
+# End
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

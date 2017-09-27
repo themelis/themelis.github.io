@@ -34,8 +34,8 @@ plugins:
   - jekyll-feed
 
 
-pages_list: 
-	Contact: '/contact'
+#pages_list: 
+#	Contact: '/contact'
 
 # Site menu settings
 #menu:

@@ -27,7 +27,8 @@ markdown: kramdown
 #markdown: redcarpet
 plugins:
   - jekyll-feed
-
+  - jekyll-gist
+  - jekyll-paginate
 
 sidebar_home_link:  true
 

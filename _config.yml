@@ -25,25 +25,11 @@ github_username:  themelis
 # Build settings
 markdown: kramdown
 #markdown: redcarpet
-#theme: jekyll-theme-hydeout
-#theme: minima
 plugins:
   - jekyll-feed
 
 
-#pages_list: 
-#	Contact: '/contact'
-
-# Site menu settings
-#menu:
-#  - title: "Research"
-#    url: "/research"
-#  - title: "Publications"
-#    url: "/publications"
-#  - title: "Contact"
-#    url: "/contact"
-# End
-
+sidebar_home_link:  true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -25,7 +25,8 @@ github_username:  themelis
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
+highlighter: rouge
 
 #markdown: redcarpet
 plugins:

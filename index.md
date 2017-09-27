@@ -20,6 +20,6 @@ You can also find me in Google Scholar, Linkedin and ORCiD.
 
 Suggested reads
 
-    Machine Learning, A Bayesian and Optimization Perspective, book by Sergios Theodoridis.
-    Statistical Signal Processing: Detection, Estimation, and Time Series Analysis, book by Louis L. Scharf.
+* Machine Learning, A Bayesian and Optimization Perspective, book by Sergios Theodoridis.
+* Statistical Signal Processing: Detection, Estimation, and Time Series Analysis, book by Louis L. Scharf.
 

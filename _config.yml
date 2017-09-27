@@ -34,15 +34,17 @@ plugins:
   - jekyll-feed
 
 
+pages_list: 
+	Contact: '/contact'
 
 # Site menu settings
-menu:
-  - title: "Research"
-    url: "/research"
-  - title: "Publications"
-    url: "/publications"
-  - title: "Contact"
-    url: "/contact"
+#menu:
+#  - title: "Research"
+#    url: "/research"
+#  - title: "Publications"
+#    url: "/publications"
+#  - title: "Contact"
+#    url: "/contact"
 # End
 
 

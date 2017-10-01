@@ -7,10 +7,9 @@ sidebar_link: true
 
 # Journal papers 
 
-    1. P. V. Giampouras, A. A. Rontogiannis, K. E. Themelis, K. D. Koutroumbas, "Online sparse and low-rank subspace learning from incomplete data: A Bayesian view", Signal Processing, vol. 137, pp. 199-212, Aug. 2017.
+1. P. V. Giampouras, A. A. Rontogiannis, K. E. Themelis, K. D. Koutroumbas, "Online sparse and low-rank subspace learning from incomplete data: A Bayesian view", Signal Processing, vol. 137, pp. 199-212, Aug. 2017.
 
-
-    2. P. V. Giampouras, K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, "Simultaneously sparse and low-rank abundance matrix estimation for hyperspectral image unmixing", IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no. 8, pp. 4775-4789, Aug. 2016.
+2. P. V. Giampouras, K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, "Simultaneously sparse and low-rank abundance matrix estimation for hyperspectral image unmixing", IEEE Transactions on Geoscience and Remote Sensing, vol. 54, no. 8, pp. 4775-4789, Aug. 2016.
 
 
     3. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, “Variational Bayes group sparse time-adaptive parameter estimation with either known or unknown sparsity pattern", IEEE Transactions on Signal Processing, vol.64, no.12, pp.3194-3206, June 2016.
@@ -53,6 +52,4 @@ sidebar_link: true
 # Ph.D. thesis 
 
   * K. E. Themelis, Bayesian signal processing techniques for hyperspectral image unmixing, 
-	Department of Informatics and Telecommunications, University of Athens, Jan. 2012. 
-
-[ [[http://goo.gl/mkbswl|pdf]] ]
+	Department of Informatics and Telecommunications, University of Athens, Jan. 2012. [pdf](http://goo.gl/mkbsw "phd thesis")

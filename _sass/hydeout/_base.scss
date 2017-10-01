@@ -54,6 +54,12 @@ a {
   }
 }
 
+.img-inline{
+  position: relative;
+  float: left;
+  display: inline-block;  
+}
+
 img {
   display: block;
   max-width: 100%;

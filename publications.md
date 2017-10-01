@@ -57,7 +57,7 @@ sidebar_link: true
 14. K. E. Themelis, A. A. Rontogiannis, O. Sykioti, K. D. Koutroumbas, I. A. Daglis, F. Schmidt, “On the unmixing of MEx/OMEGA hyperspectral data using a MAP Estimator”, Geophysical Research Abstracts, 12, PS7.1 Spectroscopy and radiative transfer in  Planetary atmospheres,  EGU General Assembly, Vienna, April 2010. 
     
 15. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, “Semi-Supervised Hyperspectral Unmixing via the Weighted Lasso”,  in Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Dallas, TX, March 2010. [pdf](http://goo.gl/EDXPDm  "pdf") [code](http://goo.gl/jsBz9J "code")
-[ [[http://goo.gl/EDXPDm|pdf]] ] /*[ [[Citation]] ] */ [ [[http://goo.gl/jsBz9J|code]] ]
+<!-- [ [[http://goo.gl/EDXPDm|pdf]] ] /*[ [[Citation]] ] */ [ [[http://goo.gl/jsBz9J|code]] ] -->
     
 16. K. E. Themelis, A. A. Rontogiannis, “A Soft Constrained MAP Estimator for Supervised Hyperspectral Signal Unmixing”, in Proceedings of the 16th European Signal Processing Conference (EUSIPCO), Lausanne, Aug. 2008.
     

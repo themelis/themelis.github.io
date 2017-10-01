@@ -19,9 +19,13 @@ sidebar_link: true
 
 <!-- [ [[http://arxiv.org/abs/1401.2771|pdf]] ] [ [[http://members.noa.gr/themelis/lib/exe/fetch.php?media=code:asvb_demo_code.zip|code]] ] -->
 
-6. K. E. Themelis, F. Schmidt, O. Sykioti, A. A. Rontogiannis, K. D. Koutroumbas, I. A. Daglis, “On the Unmixing of MeX/OMEGA Hyperspectral Data”, Planetary and Space Science, Elsevier, vol. 68, issue 1, pp.34-41,  Aug. 2012. [ [[http://goo.gl/phzWv4|pdf]] ] /* [ [[Citation]] ] */
+6. K. E. Themelis, F. Schmidt, O. Sykioti, A. A. Rontogiannis, K. D. Koutroumbas, I. A. Daglis, “On the Unmixing of MeX/OMEGA Hyperspectral Data”, Planetary and Space Science, Elsevier, vol. 68, issue 1, pp.34-41,  Aug. 2012. [pdf](http://goo.gl/phzWv4  "pdf")
 
-7. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, “A Novel Hierarchical Bayesian Approach for Sparse Semi-Supervised Hyperspectral Unmixing”, IEEE Transactions on Signal Processing, vol. 60, no. 2, pp. 585-599, Feb. 2012. [ [[http://goo.gl/XKbC3y|pdf]] ] [ [[Bibtex#2012_themelis|Citation]] ] [ [[http://goo.gl/2KgmPW|code]] ]
+<!-- [ [[http://goo.gl/phzWv4|pdf]] ] /* [ [[Citation]] ] */ -->
+
+7. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, “A Novel Hierarchical Bayesian Approach for Sparse Semi-Supervised Hyperspectral Unmixing”, IEEE Transactions on Signal Processing, vol. 60, no. 2, pp. 585-599, Feb. 2012. [pdf](http://goo.gl/XKbC3y "pdf") [code](http://goo.gl/2KgmPW "code")
+
+<!--[ [[http://goo.gl/XKbC3y|pdf]] ] [ [[Bibtex#2012_themelis|Citation]] ] [ [[http://goo.gl/2KgmPW|code]] ] -->
 
 # Conference papers 
 

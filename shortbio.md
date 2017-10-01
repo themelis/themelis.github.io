@@ -8,5 +8,5 @@ Born in [Piraeus](http://www.youtube.com/watch?v=YCFXGanTx4A "link"), Greece, in
 
 When not working I enjoy running, reading, listening to [music](http://www.youtube.com/watch?v=Vxvavq7cT3s "link"), playing [chess](http://www.youtube.com/watch?v=wPm9k6ul9EI "link") and other [sports](http://www.youtube.com/watch?v=riR_SyhvB6s "link") and spending time with friends.
 
-A full CV is available [here](http://goo.gl/zFmKFr "cv").
+A full CV is available [here](https://themelis.github.io/shared/cv_themelis.pdf "cv").
 

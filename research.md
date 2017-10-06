@@ -24,8 +24,8 @@ sidebar_link: true
 ## Collaborators 
 
  * [Athanasios Rontogiannis](http://members.noa.gr/tronto/), National Observatory of Athens, Athens
- * [Konstantinos Koutroumbas](http://members.noa.gr/koutroum/), National Observatory of Athens, Athens
- * [Sergios Theodoridis](http://cgi.di.uoa.gr/~stheodor/), University of Athens, Athens
- * [Paris Giampouras](https://sites.google.com/view/parisg), National Observatory of Athens, Athens
  * [Jean-Luc Starck](http://jstarck.cosmostat.org/), CEA Saclay, Paris
+ * [Konstantinos Koutroumbas](http://members.noa.gr/koutroum/), National Observatory of Athens, Athens
+ * [Paris Giampouras](https://sites.google.com/view/parisg), National Observatory of Athens, Athens
+ * [Sergios Theodoridis](http://cgi.di.uoa.gr/~stheodor/), University of Athens, Athens
 

@@ -63,6 +63,9 @@ sidebar_link: true
     
 17. G. Anogianakis, E. Kapritsos, C. Makris, N. Mpaltas, K.E. Themelis , K. Perdikuri, A. Tsakalidis, "Idenitification of protein patterns in nucleic acid sequences and exploration of synonymous codons in tissue differentiation",  Computational Biology and Genome Information Conference, 2005.
 
+# Book chapters 
+P.V Giampouras, K.E. Themelis, A.A. Rontogiannis, K.D. Koutroumbas, “Structured Abundance Matrix Estimation for Land Cover Hyperspectral Image Unmixing”, Chapter in book: Compressive Sensing of Earth Observations, C.H. Chen (Editor), CRC Press Signal and Image Processing of Earth Observations Book Series, 2017.
+
 # Technical reports
 
 1. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, "Semisupervised hyperspectral image unmixing using a variational Bayes algorithm", technical report, National Observatory of Athens, June, 2014. [pdf](http://arxiv.org/abs/1406.4705 "pdf") [code](http://members.noa.gr/themelis/lib/exe/fetch.php?media=code:vb_hsi_cuprite.zip "code")

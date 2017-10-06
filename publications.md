@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 
-# Journal papers 
+## Journal papers 
 
 1. P. V. Giampouras, A. A. Rontogiannis, K. E. Themelis, K. D. Koutroumbas, "Online sparse and low-rank subspace learning from incomplete data: A Bayesian view", Signal Processing, vol. 137, pp. 199-212, Aug. 2017.
 
@@ -25,7 +25,7 @@ sidebar_link: true
 
 <!--[ [[http://goo.gl/XKbC3y|pdf]] ] [ [[Bibtex#2012_themelis|Citation]] ] [ [[http://goo.gl/2KgmPW|code]] ] -->
 
-# Conference papers 
+## Conference papers 
 
 1. K. E. Themelis, A. A. Rontogiannis, and K. D. Koutroumbas, "Online Bayesian group sparse parameter estimation using a Generalized Inverse Gaussian Markov chain", in Proceedings of the 23th European Signal Processing Conference (EUSIPCO), Nice, France, Sep. 2015.
     
@@ -63,10 +63,10 @@ sidebar_link: true
     
 17. G. Anogianakis, E. Kapritsos, C. Makris, N. Mpaltas, K.E. Themelis , K. Perdikuri, A. Tsakalidis, "Idenitification of protein patterns in nucleic acid sequences and exploration of synonymous codons in tissue differentiation",  Computational Biology and Genome Information Conference, 2005.
 
-# Book chapters 
+## Book chapters 
 1. P.V Giampouras, K.E. Themelis, A.A. Rontogiannis, K.D. Koutroumbas, “Structured Abundance Matrix Estimation for Land Cover Hyperspectral Image Unmixing”, Chapter in book: Compressive Sensing of Earth Observations, C.H. Chen (Editor), CRC Press Signal and Image Processing of Earth Observations Book Series, 2017.
 
-# Technical reports
+## Technical reports
 
 1. K. E. Themelis, A. A. Rontogiannis, K. D. Koutroumbas, "Semisupervised hyperspectral image unmixing using a variational Bayes algorithm", technical report, National Observatory of Athens, June, 2014. [pdf](http://arxiv.org/abs/1406.4705 "pdf") [code](http://members.noa.gr/themelis/lib/exe/fetch.php?media=code:vb_hsi_cuprite.zip "code")
 <!--[ [[http://arxiv.org/abs/1406.4705|pdf]] ] [ [[http://members.noa.gr/themelis/lib/exe/fetch.php?media=code:vb_hsi_cuprite.zip|code]] ] -->
@@ -77,7 +77,8 @@ sidebar_link: true
 3. K. E. Themelis, "Bayesian signal processing techniques for hyperspectral image unmixing", technical report, University of Athens, December, 2012. [pdf](http://members.noa.gr/themelis/lib/exe/fetch.php?media=docs:report.pdf "pdf")
 <!--[ [[http://members.noa.gr/themelis/lib/exe/fetch.php?media=docs:report.pdf|pdf]] ]-->
 
-# Ph.D. thesis 
+## Ph.D. thesis 
 
   * K. E. Themelis, Bayesian signal processing techniques for hyperspectral image unmixing, Department of Informatics and Telecommunications, University of Athens, Jan. 2012. [pdf](http://goo.gl/mkbsw "thesis")
 <!-- [pdf](http://goo.gl/mkbsw "phd thesis") -->
+

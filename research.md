@@ -4,9 +4,6 @@ title: Research
 sidebar_link: true
 ---
 
-
-### Under construction
-
 ## Research interests
 
  * Statistical signal and image processing 

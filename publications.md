@@ -25,7 +25,7 @@ sidebar_link: true
 
 <!--[ [[http://goo.gl/XKbC3y|pdf]] ] [ [[Bibtex#2012_themelis|Citation]] ] [ [[http://goo.gl/2KgmPW|code]] ] -->
 
-## Conference papers 
+## Conference papers  
 
 1. K. E. Themelis, A. A. Rontogiannis, and K. D. Koutroumbas, "Online Bayesian group sparse parameter estimation using a Generalized Inverse Gaussian Markov chain", in Proceedings of the 23th European Signal Processing Conference (EUSIPCO), Nice, France, Sep. 2015.
     

@@ -82,5 +82,5 @@ sidebar_link: true
 ## Ph.D. thesis 
 
   * K. E. Themelis, Bayesian signal processing techniques for hyperspectral image unmixing, Department of Informatics and Telecommunications, University of Athens, Jan. 2012. [pdf](http://goo.gl/mkbsw "thesis")
-<!-- [pdf](http://goo.gl/mkbsw "phd thesis") -->
+<!-- [pdf](http://goo.gl/mkbswl "phd thesis") -->
 

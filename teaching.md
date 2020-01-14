@@ -13,8 +13,10 @@ Information Processing Tools for Data Science
 _Master in Data Sciences & Business Analytics - ESSEC & CentraleSupélec_
 
 
-__Winter 2020__
+*Winter 2020*
 
-Introduction to linear algebra, statistical signal processing and information theory
+__Course contents__
+
+Introduction to linear algebra, statistical signal processing and information theory.
 
 Stay tuned for course material...

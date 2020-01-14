@@ -9,10 +9,10 @@ Information Processing Tools for Data Science
 ------
 
 
-__Master in Data Sciences & Business Analytics - ESSEC & CentraleSupélec__
+_Master in Data Sciences & Business Analytics - ESSEC & CentraleSupélec_
 
 
-__Winter 2020 - M1 level__
+__Winter 2020__
 
 Introduction to linear algebra, statistical signal processing and information theory
 

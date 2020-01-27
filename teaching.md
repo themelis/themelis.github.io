@@ -14,4 +14,4 @@ _Master in Data Sciences & Business Analytics - ESSEC & CentraleSupélec_
 
 Introduction to linear algebra, statistical signal processing and information theory.
 
-Stay tuned for course material...
+Course material is available through Piazza. Please sign up [here](https://piazza.com/essec/winter2020/iptds) .

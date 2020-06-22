@@ -26,8 +26,8 @@ In this paper the problem of semisupervised hyper spectral unmixing is considere
 
  * Spectral unmixing, hyperspectral image processing
  * Adaptive estimation
- * Weak lensing
- * Color image segmentation
+ * Image restoration, segmentation
+ * Astrophysics, weak gravitational lensing
 
 ### Collaborators 
 

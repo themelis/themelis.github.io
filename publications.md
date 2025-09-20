@@ -7,7 +7,7 @@ sidebar_link: true
 
 ## Journal papers 
 
-1. K. Themelis, An. Belehaki, K. Koutroumbas, An. Segarra, V. de Paula, V. Navas-Portella, D. Altadill, "Neural network-based short-term forecast of Large Scale Travelling Ionospheric Disturbance occurrence above middle and southern Europe", J. Space Weather Space Clim. vol. 15, Aug. 2025.
+1. K. Themelis, A. Belehaki, K. Koutroumbas, A. Segarra, V. de Paula, V. Navas-Portella, D. Altadill, "Neural network-based short-term forecast of Large Scale Travelling Ionospheric Disturbance occurrence above middle and southern Europe", J. Space Weather Space Clim. vol. 15, Aug. 2025.
 
 2. J.-L. Starck, K. E. Themelis, N. Jeffrey, A. Peel, F. Lanusse, “Weak lensing mass reconstruction using sparsity and a Gaussian random field”, Astronomy & Astrophysics, vol. 649, no. A99, May 2021.
 

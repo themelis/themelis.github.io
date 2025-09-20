@@ -31,6 +31,7 @@ In this paper the problem of semisupervised hyper spectral unmixing is considere
 
 ### Collaborators 
 
+ * [Anna Belehaki](https://www.astro.noa.gr/en/staff/research-personnel/belehaki-anna/), National Observatory of Athens, Athens
  * [Athanasios Rontogiannis](http://members.noa.gr/tronto/), National Observatory of Athens, Athens
  * [Konstantinos Koutroumbas](http://members.noa.gr/koutroum/), National Observatory of Athens, Athens
  * [Paris Giampouras](https://sites.google.com/view/parisg), National Observatory of Athens, Athens
